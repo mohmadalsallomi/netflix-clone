@@ -32,6 +32,8 @@ nav ul {
     display: flex;
     list-style-type: none;
 }
+button{border-radius: 20px;}
+
 
 nav ul li {
     margin-left: 1.5rem;
